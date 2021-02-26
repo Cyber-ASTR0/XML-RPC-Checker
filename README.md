@@ -1,4 +1,3 @@
 # XML-RPC-Checker
-<h1>Coded By ASTRO</h1>
-<a href="https://kurd-h.org"><h3>Kurd Forum</h3></a>
-<a href="https://t.me/AnoneSecurity"><h3>Telegram</h3></a>
+<h4>Kurd Forum: https://kurd-h.org </h4>
+<h4>Telegram: https://t.me/AnoneSecurity</h4>
