@@ -2,4 +2,4 @@
 <h4>Kurd Forum: https://kurd-h.org </h4>
 <h4>Telegram: https://t.me/AnoneSecurity</h4>
 
-<img href="https://c.top4top.io/p_18836y6bk1.jpg">
+<img href="https://c.top4top.io/p_18836y6bk1.jpg" width="400" height="350">
